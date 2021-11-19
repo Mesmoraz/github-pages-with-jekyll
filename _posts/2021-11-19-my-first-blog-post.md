@@ -1,3 +1,8 @@
+---
+title: "Becoming a Game Developer"
+date: 2021-11-19
+---
+
 I'm making a blog about my development journey. I started my journey in software and game development in 2007. I created a 2D rpg playable 
 game as my senior project. I attended community college through a public program called, Running Start - this program allows students to attend 
 community college courses in lieu of high school courses. 
